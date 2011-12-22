@@ -11,8 +11,6 @@ Requirement:
  +python vim support.
 
 Installation:
- Install python-levenshtein package:
- 
  Just dowload the file `wordfuzzycompletion.vim` into ~/.vim/plugins and restart vim.
 
 Use mode:
