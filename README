@@ -11,7 +11,8 @@ Requirement:
  +python vim support.
 
 Installation:
- Just dowload the file `wordfuzzycompletion.vim` into ~/.vim/plugins and restart vim.
+ Just download the file `wordfuzzycompletion.vim` into ~/.vim/plugins and then restart vim.
+ 
 
 Use mode:
 
