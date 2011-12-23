@@ -1,6 +1,6 @@
 " -*- coding: utf-8 -*-"
 " author: jonatan alexis anauati (barakawins@gmail.com) "
-" version: 0.3. "
+" version: 0.5. "
 
 if !has('python')
     finish
